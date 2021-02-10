@@ -1,0 +1,6 @@
+mysql:
+  user: root
+  
+person:
+  name: xiaoxing
+
